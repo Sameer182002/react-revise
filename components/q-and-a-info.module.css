@@ -1,0 +1,12 @@
+.quesInfoCard{
+    display: flex;
+    justify-content: space-between;
+}
+.deleteIcon{
+    align-self: center;
+
+}
+.deleteIcon:hover{
+    color: red;
+    margin-right: 10px;
+}
